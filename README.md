@@ -1,6 +1,8 @@
 Personal Portfolio Website (2024)
 Overview
 
+![Preview](assets/Ambetazam-Jean_Steven.png)
+
 This repository contains one of my early personal portfolio websites, originally developed in 2024 using HTML, CSS, and JavaScript.
 
 The project was created as part of my learning journey in web development and served as a simple online portfolio to present my education, projects, technical interests, and contact information.
