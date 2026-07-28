@@ -31,11 +31,11 @@ Running the Project
 
 Clone the repository:
 
-git clone https://github.com/Ambetazam/<repository-name>.git
+git clone https://github.com/Ambetazam/HTMLPortoflio.git
 
 Open the project directory:
 
-cd <repository-name>
+cd HTMLPortoflio
 
 Open the website in your browser:
 
@@ -88,6 +88,6 @@ This project is released under the MIT License unless otherwise specified.
 
 Author
 
-Jean Castaneda
+Jean Steven
 
 Systems Engineering Student • Software Engineer • Cybersecurity Researcher • AI Developer • Open Source Enthusiast
