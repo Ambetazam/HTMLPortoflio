@@ -29,6 +29,7 @@ Project Structure
 .
 ├── index.html
 └── README.md
+
 Running the Project
 
 Clone the repository:
